@@ -16,7 +16,7 @@ who is studying various technologies aiming for full stack.
 ---
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=oppop123)](https://solved.ac/oppop123)  
 
-[![CodeForces Profile](https://cf.leed.at?id=gwimong)](https://codeforces.com/profile/gwimong)
+<!-- [![CodeForces Profile](https://cf.leed.at?id=gwimong)](https://codeforces.com/profile/gwimong) -->
 
 
 # Stack  
