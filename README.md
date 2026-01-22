@@ -7,11 +7,11 @@ who is studying various technologies aiming for full stack.
 
 # Status
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=park-gwimong&theme=tokyonight&show_icons=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=park-gwimong&exclude_repo=park-gwimong.github.io&layout=compact&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=gwimong&exclude_repo=park-gwimong.github.io&layout=compact&theme=tokyonight" height="180" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=park-gwimong&exclude_repo=park-gwimong.github.io&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=park-gwimong&theme=tokyonight&show_icons=true)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=gwimong&exclude_repo=park-gwimong.github.io&layout=compact&theme=tokyonight)
 
 ---
 
