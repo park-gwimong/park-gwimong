@@ -1,94 +1,23 @@
-<h3>
-Hello, I'm Gwimong Park
-</h3>
-무인기 군집 관제 소프트웨어를 개발하는 Software Engineer / Team Lead입니다.
-개발하면서 겪은 문제와 해결 과정은 [기술 블로그](https://park-gwimong.github.io)에 기록합니다.
+### Gwimong Park
 
----
+무인기 관제 소프트웨어를 만들고, 그 과정에서 부딪힌 문제와 판단을 [블로그](https://park-gwimong.github.io)에 기록합니다.
+요즘은 개발 산출물을 코드처럼 관리하는 방법에 가장 관심이 많습니다.
 
-# Status
+#### 만든 것
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=park-gwimong&exclude_repo=park-gwimong.github.io&layout=compact&theme=tokyonight)
+- [repo-cloner](https://github.com/park-gwimong/repo-cloner) — GitHub·Bitbucket 저장소를 일괄 clone하고 안전하게 갱신하는 터미널 도구 (Python, 런타임 외부 의존성 없음)
+- [notion-weblink-crawler](https://github.com/park-gwimong/notion-weblink-crawler) — 국내 기술 블로그 새 글을 Notion 데이터베이스에 자동으로 쌓는 크롤러 (Python, GitHub Actions)
+- [async-photo](https://github.com/park-gwimong/async-photo) — NAS의 RAW 사진을 JPG로 단방향 동기화하는 CLI (Python, FTP)
+- [park-gwimong.github.io](https://github.com/park-gwimong/park-gwimong.github.io) — 이 블로그 (Astro, GitHub Pages)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=park-gwimong&theme=tokyonight&show_icons=true)
+#### 요즘 쓰는 글
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=gwimong&exclude_repo=park-gwimong.github.io&layout=compact&theme=tokyonight)
+- [일관성은 분류가 아니라 추적성에서 온다](https://park-gwimong.github.io/2026/05/29/traceability-not-classification/)
+- [유스케이스를 제대로 작성하는 법](https://park-gwimong.github.io/2026/05/26/writing-usecases-properly/)
+- [artifact-transformer 작업 일지](https://park-gwimong.github.io/category/devlog/)
 
----
+#### 주로 쓰는 도구
 
-[![Solved.ac프로필](https://mazassumnida.wtf/api/generate_badge?boj=oppop123)](https://solved.ac/oppop123)
+Python, Java · Spring, C# · Qt, TypeScript, Kafka, Docker, Linux, Jira · Confluence
 
-# Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-### Frontend
-
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/materialdesign-2196F3?style=for-the-badge&logo=materialdesign&logoColor=white">
-
-### Backend
-
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-
-### Database
-
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/dynamodb-47A248?style=for-the-badge&logo=amazondynamodb&logoColor=white">
-
-### Messaging & Security
-
-<img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
-<img src="https://img.shields.io/badge/keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white">
-
-### DevOps & Cloud
-
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/awslambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
-### Version Control
-
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white">
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
-
-### Tools
-
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
-
-</div>
-
-# License
-
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/park-gwimong/park-gwimong.github.io/blob/main/LICENSE)
+[Blog](https://park-gwimong.github.io) · [About](https://park-gwimong.github.io/about/) · [Email](mailto:park.gwimong@gmail.com)
