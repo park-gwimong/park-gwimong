@@ -1,7 +1,8 @@
 <h3>
-Hello, I'm a developer
+Hello, I'm Gwimong Park
 </h3>
-who is studying various technologies aiming for full stack.
+무인기 군집 관제 소프트웨어를 개발하는 Software Engineer / Team Lead입니다.
+개발하면서 겪은 문제와 해결 과정은 [기술 블로그](https://park-gwimong.github.io)에 기록합니다.
 
 ---
 
@@ -15,7 +16,7 @@ who is studying various technologies aiming for full stack.
 
 ---
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=oppop123)](https://solved.ac/oppop123)
+[![Solved.ac프로필](https://mazassumnida.wtf/api/generate_badge?boj=oppop123)](https://solved.ac/oppop123)
 
 # Stack
 
@@ -51,11 +52,19 @@ who is studying various technologies aiming for full stack.
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/dynamodb-47A248?style=for-the-badge&logo=amazondynamodb&logoColor=white">
+
+### Messaging & Security
+
+<img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white">
 
 ### DevOps & Cloud
 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/awslambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
@@ -66,6 +75,8 @@ who is studying various technologies aiming for full stack.
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white">
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
 
 ### Tools
 
@@ -80,4 +91,4 @@ who is studying various technologies aiming for full stack.
 
 # License
 
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/park-gwimong/park-gwimong.github.io/blob/master/LICENSE)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/park-gwimong/park-gwimong.github.io/blob/main/LICENSE)
